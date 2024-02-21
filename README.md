@@ -1,10 +1,10 @@
 # Photonics Repository
 
-Welcome to the Photonics Repository! This repository houses a collection of powerful tools and algorithms designed for SEM image processing, curve smoothing, curve approximation, and the creation of predictive models for analyzing depression profiles post-ablation in nanophotonics applications.
+Welcome to the Photonics Repository! This repository houses a collection of powerful tools and algorithms designed for SEM image processing, curve smoothing, curve approximation, and the creation of predictive models for analyzing depression profiles post-ablation in nanophotonics applications. This repository is essential part of paper "Image-Driven Laser Ablation Optimization".
 
 ## Contents
 
-- **Image Processing:** Explore our image processing tools to preprocess and segment images efficiently.
+- **Image Processing:** Explore our image processing tools to preprocess and segment images efficiently (file *pipeline.py*).
 - **Curve Smoothing:** Utilize advanced algorithms for smoothing curves to enhance data quality and accuracy.
 - **Curve Approximation:** Discover methods for approximating curves to extract meaningful insights from data.
 - **Predictive Modeling:** Dive into our predictive modeling techniques tailored for analyzing depression profiles post-ablation, empowering accurate predictions and valuable insights.
