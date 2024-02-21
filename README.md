@@ -7,7 +7,7 @@ Welcome to the Photonics Repository! This repository houses a collection of powe
 - **Image Processing:** Explore our image processing tools to preprocess and segment images efficiently (file **pipeline.py**).
 - **Curve Smoothing:** Utilize advanced algorithms for smoothing curves to enhance data quality and accuracy (file **process_curve.py**).
 - **Curve Approximation:** Discover methods for approximating curves to extract meaningful insights from data(file **approximation.py**).
-- **Predictive Modeling:** Dive into our predictive modeling techniques tailored for analyzing depression profiles post-ablation, empowering accurate predictions and valuable insights (file **model.py**)..
+- **Predictive Modeling:** Dive into our predictive modeling techniques tailored for analyzing depression profiles post-ablation, empowering accurate predictions and valuable insights (file **model.py**).
 
 ## How to Use
 
